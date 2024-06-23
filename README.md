@@ -1,4 +1,4 @@
-# Cardiovascular-Disease-Prediction-and-Analysis
+# Cardiovascular Disease Prediction and Analysis
 Overview
 
 Cardiovascular disorders are the major cause of death worldwide. Identifying the reasons and creating an effective prediction system is critical for early detection and treatment. This study uses a dataset containing significant characteristics influencing heart health to forecast the occurrence of heart attacks.
